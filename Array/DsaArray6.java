@@ -9,6 +9,8 @@ for(int row =0;row<a.length;row++){
 for(int col=0;col<a[row].length;col++){
 a[row][col]=ai.nextInt();
 }
+
+//comment
 }
 System.out.println("Final Matrix -");
 for(int b[]:a){
